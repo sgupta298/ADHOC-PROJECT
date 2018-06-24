@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 import face_recognition
 import cv2
 
